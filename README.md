@@ -1,2 +1,2 @@
-# InternSpedia_Cartoonify_Image
-Cartoonify Images with OpenCV
+#Caroonify Images with OpenCV
+
